@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fd8e19b-36d9-4cfe-8a1a-3f54996c0f7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homeworks/HW1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homeworks/HW1/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homeworks/HW1/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homeworks/HW1/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/Lesson1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/Lesson1/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/Lesson1/model/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/Lesson1/model/Pasport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/Lesson1/service/HumanService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="4fd8e19b-36d9-4cfe-8a1a-3f54996c0f7f" name="Changes" comment="add Packages + Homework1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson1/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson1/Task2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Pasport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/HumanService.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1684783555209</updated>
     </task>
+    <task id="LOCAL-00001" summary="add Packages + Homework1">
+      <created>1685024997089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685024997089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,5 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add Packages + Homework1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Packages + Homework1" />
   </component>
 </project>
