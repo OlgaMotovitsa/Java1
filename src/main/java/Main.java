@@ -1,6 +1,6 @@
-import Lessons.Lesson1.Task1;
-import Lessons.Lesson1.Task2;
-import Lessons.Lesson1.model.Human;
+import lessons.Lesson1.Task1;
+import lessons.Lesson1.Task2;
+import lessons.Lesson1.model.Human;
 
 public class Main {
     public static void main(String[] args) {

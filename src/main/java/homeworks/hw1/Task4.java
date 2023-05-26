@@ -1,5 +1,5 @@
 // Создать калькулятор с простыми операторами
-package Homeworks.HW1;
+package homeworks.hw1;
 import java.util.Scanner;
 
 public class Task4 {
@@ -31,6 +31,5 @@ public class Task4 {
         if (operator != '-' && operator != '+' && operator != '/' && operator != '*') {
             System.out.println("Вы ввели другой оператор ");
         }
-        scanner3.close();
     }
 }

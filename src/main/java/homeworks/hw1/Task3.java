@@ -1,5 +1,5 @@
 // 3. Вывести все простые числа от 1 до 1000
-package Homeworks.HW1;
+package homeworks.hw1;
 public class Task3 {
     public static void main(String[] args) {
         int maxNumber = 1000;

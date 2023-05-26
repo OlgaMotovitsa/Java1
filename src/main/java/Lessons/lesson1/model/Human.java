@@ -1,4 +1,4 @@
-package Lessons.Lesson1.model;
+package lessons.Lesson1.model;
 
 public class Human {
     public String name;

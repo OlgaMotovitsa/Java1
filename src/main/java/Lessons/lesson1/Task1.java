@@ -2,7 +2,7 @@
 // Во фразе "Добро пожаловать на курс по Java" переставить
 //слова в обратном порядке.
 
-package Lessons.Lesson1;
+package lessons.Lesson1;
 
 public class Task1 {
     public void revers(String str) {
