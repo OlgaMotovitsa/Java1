@@ -4,39 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fd8e19b-36d9-4cfe-8a1a-3f54996c0f7f" name="Changes" comment="add Packages + Homework1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/Lesson2/Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/Lesson2/Logs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/Lesson2/Logs2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/Lesson2/StrPluses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/Lesson2/TaskString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/MainHw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw2/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw2/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw2/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/some/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/some/Some.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/tasks/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/tasks/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/tasks/TaskNewWriteExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/TaskMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work.txt" afterDir="false" />
+    <list default="true" id="4fd8e19b-36d9-4cfe-8a1a-3f54996c0f7f" name="Changes" comment="add PSeminar2 + Homework2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw2/JsonRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw2/TaskMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw3/Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/sem3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/HW1/HW1Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw1/HW1Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/HW1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/HW1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw1/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/HW1/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw1/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/HW1/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/hw1/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/Lesson1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/Lesson1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/Lesson1/model/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/model/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/Lesson1/model/Pasport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/model/Pasport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/Lesson1/service/HumanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/service/HumanService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/model/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/model/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeworks/MainHw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeworks/hw2/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeworks/hw2/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Task0.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +41,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -82,61 +65,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MainHw">
-    <configuration name="ConsoleHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson2.ConsoleHandler" />
-      <module name="Java1.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lessons.Lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.TaskMain">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminars.seminar2.Example" />
-      <module name="Java1.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminars.seminar2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Logs2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson2.Logs2" />
-      <module name="Java1.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lessons.Lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.seminar2.Main" />
       <module name="Java1.main" />
       <extension name="coverage">
         <pattern>
@@ -161,13 +105,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaskMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.hw2.TaskMain" />
+      <module name="Java1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.hw3.Tasks" />
+      <module name="Java1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeworks.hw2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.hw2.Main" />
+      <module name="Java1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tasks" />
+        <item itemvalue="Application.homeworks.hw2.Main" />
+        <item itemvalue="Application.TaskMain" />
         <item itemvalue="Application.MainHw" />
         <item itemvalue="Application.Example" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ConsoleHandler" />
-        <item itemvalue="Application.Logs2" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685026166767</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add PSeminar2 + Homework2">
+      <created>1685122375378</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685122375378</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +214,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add Packages + Homework1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Packages + Homework1" />
+    <MESSAGE value="add PSeminar2 + Homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add PSeminar2 + Homework2" />
   </component>
 </project>

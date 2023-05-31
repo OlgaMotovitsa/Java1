@@ -1,10 +1,10 @@
-package lessons.Lesson1.model;
+package Lessons.lesson1.model;
 
 public class Human {
     public String name;
     private String gender;
     private int age;
-    private Pasport data;
+    private lessons.Lesson1.model.Pasport data;
 
     public Human(String name) {
         this.name = name;
